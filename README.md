@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-The stability and efficiency of modern power grids are linked to the ability to accurately forecast electricity demand. Time series forecasting plays a critical role in strategic planning across industries. Like weather forecasting, supply and demand forecasting in many industries, or health sickness treatment. In the energy sector it is critical to ensure reliability, efficiency, and sustainability of electric supply by forecasting future demand _(Singh et. al., 2013)_.
+The stability and efficiency of modern power grids are linked to the ability to accurately forecast electricity demand. Time series forecasting plays a critical role in strategic planning across industries. Like weather forecasting, supply and demand forecasting in many industries, or health sickness treatment. In the energy sector it is critical to ensure reliability, efficiency, and sustainability of electric supply by forecasting future demand.
 
 The importance of using regression techniques in this field is vital because electricity must be consumed at the same as it is generated. Accurate forecasting helps operators to match supply and demand in real-time; it also prevents blackouts or overloading on systems. Other advantages of forecasting are economic efficiency and dynamic pricing. Energy providers can reduce operating costs by optimizing electricity generation and purchases. Predicting the peak of the demand allows operators to better plan for the use of calculations to minimize cost inefficiency at power plants.
 
